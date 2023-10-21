@@ -1,6 +1,5 @@
 # README.md
 
-README
 Introduction
 Hello! I'm a student at the Royal University of Phnom Penh (RUPP) with a passion for becoming a web developer. I'm highly motivated to take on challenges and thrive on hard work. I'm committed to continuous self-improvement through self-study and exploring the ever-evolving world of technology. My ultimate goal is to leverage my knowledge to be a kind-hearted individual who helps others through the power of technology.
 
